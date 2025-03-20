@@ -1,0 +1,19 @@
+{
+  "name": "1.-deploy-backend-code-in-production",
+  "version": "1.0.0",
+  "description": "a basic app to deploy using backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "vikrant singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
